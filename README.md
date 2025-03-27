@@ -1,2 +1,2 @@
 # static-website
-in this we are build static website page
+in this I created only static website pages only
